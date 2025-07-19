@@ -1,4 +1,5 @@
+python_version = "3.10" # OR "3.9" or "3.11" - let's try 3.10 first as it's very stable
 streamlit
 transformers
 nltk
-torch # Transformers needs a backend like PyTorch (torch) or TensorFlow (tensorflow)
+torch
